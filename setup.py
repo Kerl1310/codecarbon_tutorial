@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 setup(name='CodeCarbonTutorial',
       version='1.0',
       description='Tutorial using CodeCarbon',
-      long_description=open('README.md').read(),
+    #   long_description=open('README.md').read(),
       author='Kyle Jones',
       author_email='kylejones1310@outlook.com',
       url='',
